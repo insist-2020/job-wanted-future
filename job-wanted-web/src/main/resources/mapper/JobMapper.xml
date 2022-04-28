@@ -54,6 +54,10 @@ ORDER BY c DESC
 LIMIT 0,16;
     </select>
 
+     <select id="selectTopJobTime" resultMap="BaseResultMap">
+
+     </select>
+
 
 
 
